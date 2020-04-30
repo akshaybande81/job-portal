@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://akshay123:Akshay@123@jobportal-thsjx.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret_key",
+    "githubClientId": "f41117aa753bfdc11ec5",
+    "githubSecret": "b61150a333b55bc0c1b68322656e1820873b6dd2"
+}
